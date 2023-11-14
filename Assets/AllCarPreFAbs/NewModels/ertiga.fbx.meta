@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: f0e561c55abc428489ac05dd4bcd13e4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn10
+    second: {fileID: 2100000, guid: 5f1365f66d08dd44ea886548231dd759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn14
+    second: {fileID: 2100000, guid: 657a1ab2caa274e48a15d0ed526febfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn16
+    second: {fileID: 2100000, guid: d03134a966e0d704181852867ea643f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn17
+    second: {fileID: 2100000, guid: 160a599843a67e148bf6fab86929832b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn18
+    second: {fileID: 2100000, guid: 24239abf9978fae45aaefd8dedc39dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn19
+    second: {fileID: 2100000, guid: ba4ba35c6cfd4f140bc9405fe25be6a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn22
+    second: {fileID: 2100000, guid: bde4b692248983443bf2721ebf29dd58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn23
+    second: {fileID: 2100000, guid: 32a9907fa9896fb468e313305f9e6f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn24
+    second: {fileID: 2100000, guid: 0c5f240365cdc3d4da995151b6d324fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn25
+    second: {fileID: 2100000, guid: f3c0dd3336d675546a6e07ea50f7c546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn26
+    second: {fileID: 2100000, guid: b768911b9a6bc624ca4de15e93efc336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn28
+    second: {fileID: 2100000, guid: 686547ab079bb1f448f2a31f1e6eed37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn29
+    second: {fileID: 2100000, guid: 99c3cedc3875ed94eaa8e41f0bfed321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3
+    second: {fileID: 2100000, guid: 2442c2458ea384c44bc408b703e0c612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn30
+    second: {fileID: 2100000, guid: c9aa7bf872b1d4946bf6c2e0cc21adfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn31
+    second: {fileID: 2100000, guid: 6b35092dd3a222641bf1713c6cda8302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn8
+    second: {fileID: 2100000, guid: 61cbe1cb3eca06246b68a646f8da42ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 6f0b001096b5d224e91cc60181c9b380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 7b770d237f4bbcc4c906fa2e1c87fc73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 6e3d62457e3e3b843b44c9e3e91d8c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: de0a94bd64379fa41b14da19267d1e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: 1e22f6bbb26079646ae1ce00680ae341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: 625a4f8b4a74acf438700598e1e71ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 7a7f9e12f9715c74f82c9d87a1f882bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert24
+    second: {fileID: 2100000, guid: 8e03e853f2007e447b2b8af92e3bf15a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert25
+    second: {fileID: 2100000, guid: e007bc7c8400b06478d0e5fe5d9f7960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert26
+    second: {fileID: 2100000, guid: 64ede4c2f3e86f047bcfffbad19a8fb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: ec12248594f91a2498e4878b74ef1c61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 823612c3354ad5943aa0ab90dd2ee209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: 69c08d4b377b0134193e36db730fbe3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_EX_BLACK_MAT.002
+    second: {fileID: 2100000, guid: 3d5b9c31a1e8c2e4faba51d77374722a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_CARBODY_CARPAINT_MAT.004
+    second: {fileID: 2100000, guid: 5419e5424583b724cbda8fb6db73e025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_CARBODY_CARPAINT_MAT.005
+    second: {fileID: 2100000, guid: 911fb6a3de4393e4b8c397d5060e2841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_DECAL_MAT.018
+    second: {fileID: 2100000, guid: 51db45397cd689c419658abed48117cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_IN_DOOR_BEIGE_PLASTIC_TILEABLE_MAT.002
+    second: {fileID: 2100000, guid: ab386929bb7531f4c873b4d702a4cc28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_IN_DOOR_MATTE_BLACK_PLASTIC_MAT.004
+    second: {fileID: 2100000, guid: 27ed6441009146f4a9e32418a2460d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_HEADLIGHT_BLACKGLOSSY_PLASTIC_MAT1
+    second: {fileID: 2100000, guid: f381c13060537d642b316f8dc7d28fe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_HEADLIGHT_CHROME_MAT1
+    second: {fileID: 2100000, guid: 33e3b40b8cb152e4aa64c196b93758df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_HEADLIGHT_CHROME_ONE_MAT1
+    second: {fileID: 2100000, guid: c048043dfcf509f4389da2e13e547b4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_HEADLIGHT_GLASS_DETAILS_A_MAT1
+    second: {fileID: 2100000, guid: ed4eeb7e72b95bb44af33c40babcdfa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_HEADLIGHT_GLASS_DETAILS_MAT1
+    second: {fileID: 2100000, guid: 4ac0098c803a1d942a4d9157dacf3987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_HEADLIGHT_GLASS_MAT1
+    second: {fileID: 2100000, guid: 21a8af7c13f8dad4bbb75623438a3693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_HEADLIGHT_LIGHT_EMMASIVE_MAT1
+    second: {fileID: 2100000, guid: 8c7e227dd54dcdd48825637115756ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_BLACKMAT_MAT1
+    second: {fileID: 2100000, guid: 46532be835dfe2b469bf23a3a061812f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_BLACK_PLASTIC_MAT1
+    second: {fileID: 2100000, guid: 8172a7135c6f58543be24a847568fe06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_CHROME_RED_DARK_BORDER_MAT1
+    second: {fileID: 2100000, guid: 79240dd3d2eac54458862dbe03c6bbbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_CHROME_RED_INNER_LIGHT_MAT1
+    second: {fileID: 2100000, guid: ed150ccb8e73f684b9395224f2c52d1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_CHROME_RED_MAT1
+    second: {fileID: 2100000, guid: 3633586bd8c5dfe4fb7cbdbe479877ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_CHROME_WHITE_MAT1
+    second: {fileID: 2100000, guid: 4d34fa25a4bd43e429a31b6fb21b3590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_ORANGE_BULB_MAT1
+    second: {fileID: 2100000, guid: c926b03827ad8fa479400143cf859c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_STRIPS_RED_GLASS_MAT1
+    second: {fileID: 2100000, guid: be0f344f294d4b24b9c00d84a75479f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_STRIPS_WHITE_GLASS_MAT_MAT_MAT1
+    second: {fileID: 2100000, guid: 2246afdd338245d418c1703e4233bc17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_LIGHTS_TAILLIGHT_WHITE_BULB_MAT1
+    second: {fileID: 2100000, guid: eaca6f3ed2e5fbc4bae81d184dfb6900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_MAT.012
+    second: {fileID: 2100000, guid: 5cd139bba500456438f41ca0133bae97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_MAT.013
+    second: {fileID: 2100000, guid: 9f2bd8b0749af3b44bdd01ad74004d3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_MAT.016
+    second: {fileID: 2100000, guid: ef9c57b0a44b4804ba1d6e8fe9c68485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_BLACK_METAL_MAT.002
+    second: {fileID: 2100000, guid: ba238df864f038d41ad0b33e80579b64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_BLACK_METAL_MAT1
+    second: {fileID: 2100000, guid: 42b2c077ecbe52441a8b82fe68c2d3e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_BLACK_PLASTIC_MAT.006
+    second: {fileID: 2100000, guid: 7f70d4f1748af784e8277b0374219f06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_CHROME_MAT.006
+    second: {fileID: 2100000, guid: 05805748d8c35734c8ad2c08f705ca2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_DOORHOOK_METAL_MAT1
+    second: {fileID: 2100000, guid: bbb00d2355f2c81459aec88c5a8bee4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_NAMEPLATE_MAT.002
+    second: {fileID: 2100000, guid: d42a947cc2b1457408dd3a84abc893aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_NAMEPLATE_MAT1
+    second: {fileID: 2100000, guid: b09011e34cd146b48aabb3d64a29e1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_RUBBER_MAT.003
+    second: {fileID: 2100000, guid: 5f1b2eb81ea49bd44932b5e6e734f0d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_RUBBER_MAT1
+    second: {fileID: 2100000, guid: 567d9e22ac02060468fb93ff8af060f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_WINDSHIELD_MAT.002
+    second: {fileID: 2100000, guid: ea00120208b3e86499e85e524414f3a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_WINDSHIELD_MAT1
+    second: {fileID: 2100000, guid: 0016ce9733ab1a84c89b44184e2ef43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_PARTS_WIPER_PLASTIC_MAT1
+    second: {fileID: 2100000, guid: 118f8830b67378940a92ffdd321d6b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_EX_WHEEL_NOZEL_MAT
+    second: {fileID: 2100000, guid: 695d91ad6e6ea224cb91852bb70f622a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_CENTERCONSOLE_BEIGE_LEATHER_STITCH_MAT1
+    second: {fileID: 2100000, guid: eb54341318fb00d4189a6d919bace9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_CENTERCONSOLE_BEIGE_LEATHER_TILEABLE_MAT1
+    second: {fileID: 2100000, guid: 46176ac88d5b590479339870a2507c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_CENTERCONSOLE_BEIGE_PLASTIC_MAT.004
+    second: {fileID: 2100000, guid: 6a1bd3e148db1044bab0a2c34b69ddc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_CENTERCONSOLE_DARK_BEIGE_PLASTIC_MAT.004
+    second: {fileID: 2100000, guid: e4ffc387d2931b345adeed9be0429905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DASHBOARD_BEIGE_PLASTIC_TILEABLE_MAT.003
+    second: {fileID: 2100000, guid: de96e5d9aee2bd14fb789cd0cdde3b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DASHBOARD_CHROME_MAT.003
+    second: {fileID: 2100000, guid: f17bae4f53dfbc742920170e1f39a5c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DASHBOARD_DARK_BEIGE_PLASTIC_MAT.006
+    second: {fileID: 2100000, guid: 94278eff9760f3f4d91221ddac246b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DASHBOARD_DARK_BEIGE_PLASTIC_MAT.008
+    second: {fileID: 2100000, guid: f75abd6f7e7096b41831f34fbf01acbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DASHBOARD_GLOSSY_BLACK_PLASTIC_MAT1
+    second: {fileID: 2100000, guid: 13339287e74b2684e955153f1f73dfc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DASHBOARD_INFOTAINMENT_SHINY_BLACK_PLASTIC_MAT1
+    second: {fileID: 2100000, guid: 9912cdb9907d20446b3a8b4a7d510087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DASHBOARD_INFOTANMENT_GLASS_MAT1
+    second: {fileID: 2100000, guid: 2ddfd5bd2c290534e828edffd9769e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_BLACK_ZIP_MAT1
+    second: {fileID: 2100000, guid: 8128b5b46526ebc4889527de4d111bfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_GRAY_CARPET_MAT1
+    second: {fileID: 2100000, guid: c187e7e11ef556747ab581da3f53bf73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_ISOFIX_MAT1
+    second: {fileID: 2100000, guid: 8b102f07e2e4caf4e8716e19a3fda436, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_KNIT_DESERT_BEIGE_MAT1
+    second: {fileID: 2100000, guid: 567f7b44bc481064d8ce68f3dfa25f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_STITCH_MAT1
+    second: {fileID: 2100000, guid: 75ce0aaeb65c2ba4ebb0769f3289228f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_STRIP_MAT1
+    second: {fileID: 2100000, guid: 315f4d63d426d0743b9ad5723fc3e667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_TILE_WOOL_MAT1
+    second: {fileID: 2100000, guid: 6705add2f1febe4438a3939ec2b1ef7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_WOV_STRIK_BEIGE_MAT1
+    second: {fileID: 2100000, guid: 466d0bb91f5b53842a7361a96ae6af4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_DEFAULT_SEATS_WOV_WALNUT_BROWN_MAT1
+    second: {fileID: 2100000, guid: 176fa1421b36f6d4086603e6605e5a1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_FLOOR_PADDLE_BLACK_METAL_MAT1
+    second: {fileID: 2100000, guid: bec5967a353ab8d479619f66b1a47585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_FLOOR_PADDLE_RUBBER_MAT1
+    second: {fileID: 2100000, guid: 3560b516e836f664d9233956deb10b71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__ERTIGA_ZP_IN_STEERING_GREY_PLASTIC_MAT1
+    second: {fileID: 2100000, guid: dac5c69b4c16b564f85ba91ade2c4277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert6
+    second: {fileID: 2100000, guid: f5d921bd653add943940d4ba46fe0692, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert8
+    second: {fileID: 2100000, guid: 84d7e299831d7ca4a81fc70710105d2b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

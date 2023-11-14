@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: a551491e8d20dc74e8806646c46567bb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 123
+    second: {fileID: 2100000, guid: 00bcb27e5a7cc96438f10f4417986bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156
+    second: {fileID: 2100000, guid: c3099d10dbd799445ab6684964a6f68c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156ad
+    second: {fileID: 2100000, guid: 362fdc5bae65ccb4093e201e965963d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156add
+    second: {fileID: 2100000, guid: ca0f666a237184c43b0b1482883211f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156addASdf
+    second: {fileID: 2100000, guid: deec1d31ed6f79a4992979c32d374f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156addASdfs
+    second: {fileID: 2100000, guid: 087973e93455ba4468904d40c040f02e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156addASdfsssd
+    second: {fileID: 2100000, guid: 419042fe3c93c584b8f7f749bb83c3c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156adds
+    second: {fileID: 2100000, guid: 3c50c870c9a42504e9bc5c56d20cd142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156afAERGZ
+    second: {fileID: 2100000, guid: c273bbf248f58b64098c5db150ffa51d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156qfs
+    second: {fileID: 2100000, guid: 7b121d5008868544a80db5b3da8bec0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #156zxcv
+    second: {fileID: 2100000, guid: 0ab2bfd86c4db2546a46ce0c907aa683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #240
+    second: {fileID: 2100000, guid: 5378eaee1b2907f498d595bae2ad4085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_V_IN_PRESS_DECAL_MAT
+    second: {fileID: 2100000, guid: 2625a81ca948f294facb76034e330666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_BLACK_MAT.001
+    second: {fileID: 2100000, guid: 8ba465b1c0cd5ad49aa92a364207e904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_BLACK_MAT.002
+    second: {fileID: 2100000, guid: aac8783dc929f1a4b83eea12ad859d90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_CARBODY_CARPAINT_MAT
+    second: {fileID: 2100000, guid: 0f79bdae16f3f9545bde20f3ad1d2ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_CARBODY_CARPAINT_MATascf
+    second: {fileID: 2100000, guid: 401b46d7022638749970f92fe50c50ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_CARBODY_DT_BLACK_MAT.001
+    second: {fileID: 2100000, guid: 651eed9590fecab4abffd3c0bec1e5c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_LIGHTS_BRAKELIGHT_MAT
+    second: {fileID: 2100000, guid: ad2ab48fb10d8444f84fe6cd1b6a123e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 49c171a33916fe9419451ad7eb1eb8cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_BLACK_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: 773543595027a284b9fc47ea2cdc5db5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_BLACK_PLASTIC_MAT.002
+    second: {fileID: 2100000, guid: 35aa444d46d792248afb4e6f62985d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_BLACK_PLASTIC_MAT.003
+    second: {fileID: 2100000, guid: 8d580da59d7fa054c9b6b23487f5cf14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_BLACK_PLASTIC_MAT.004
+    second: {fileID: 2100000, guid: 0ba80b1863e0aea4ca88224eaa4a9ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_CAMERA_MAT
+    second: {fileID: 2100000, guid: d6f5e012fd4bfb241a2b5d0b7d370305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_CHROME_MAT
+    second: {fileID: 2100000, guid: aee166412eb4ed54a92e901a56311bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_DEFOGGER_MAT
+    second: {fileID: 2100000, guid: 472cca3d789cc2441a9c1a6c33fb609f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_DOT_MAT
+    second: {fileID: 2100000, guid: a6ef28a4081b0d648bdfc883ff18ca1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_DOT_MAT.001
+    second: {fileID: 2100000, guid: 4e4e706eac03c3f4684be081683f1a1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_HOOK_MAT
+    second: {fileID: 2100000, guid: e6b9ea524492a9c489d10cf56836b3d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_NAMEPLATE_MAT
+    second: {fileID: 2100000, guid: afe1997c12370294783c8cb75d8fba31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_RUBBER_MAT
+    second: {fileID: 2100000, guid: 9d48817211347154a894d0293f7ad7fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_RUBBER_MAT.001
+    second: {fileID: 2100000, guid: 8910634f429ce084e8fb3e7b4529c244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_EX_PARTS_RUBBER_MAT.002
+    second: {fileID: 2100000, guid: b62f8c05c941b81439e7cd450ac2c84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BLACK_MAT
+    second: {fileID: 2100000, guid: 763a032eb463e3f47adf6d6a5c99d61f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BLACK_MAT.001
+    second: {fileID: 2100000, guid: 75b16c5ed37d10a438f1242bf9ed1869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BLACK_MAT.002
+    second: {fileID: 2100000, guid: 2c636b4b522792441b69b9a56acd10f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BLACK_MAT.003
+    second: {fileID: 2100000, guid: 159b30f484563aa46bbe66e23516c124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_BEIGE_CLOTH_MAT
+    second: {fileID: 2100000, guid: babc96ad355be85428de16cbfe9032d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_BEIGE_HANDLE_MAT
+    second: {fileID: 2100000, guid: d53a0045e1bebf44b9209ae459c3d24b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_BEIGE_PLASTIC_A_MAT
+    second: {fileID: 2100000, guid: 815ba70c952874b40890049c87086c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 8126ed6c4d606f14f8dfe5615fce90cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_BLACK_METAL_MAT
+    second: {fileID: 2100000, guid: 46fcdd587ecea2b478bb43186a62a411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 4dd8a7ff9616fe141b513e8853892970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_BLACK_PLASTIC_TILEABLE_MAT
+    second: {fileID: 2100000, guid: 0de280af7349f3942986f147e728621b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_FLOOR_MAT
+    second: {fileID: 2100000, guid: f6e0b53eb4de13245a38710fc1b96425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_FLOOR_MAT.001
+    second: {fileID: 2100000, guid: f037a7c93e2d6a04e87fac35929c0c56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_ROOF_FABRIC_TILEABLE_MAT
+    second: {fileID: 2100000, guid: 67bb3237ebfec5242a80947842c81a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_BODY_RUBBER_MAT
+    second: {fileID: 2100000, guid: f012221436826d24dbf19cec9019f565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BEIGE_PATTERN_ONE_MAT
+    second: {fileID: 2100000, guid: 31da13d17dde888459bcd913ba7105fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: e57b062b73739fc42adea9530e485431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BEIGE_PLASTIC_TILEABLE_MAT
+    second: {fileID: 2100000, guid: 47166c8130c8cd242b7931c0bb78b7df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BLACK_PLASTIC_DARK_MAT
+    second: {fileID: 2100000, guid: b1e98efe50ab9ab4e8366f5b48a7d641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BLACK_PLASTIC_DARK_MAT.001
+    second: {fileID: 2100000, guid: 01187f3e858e40143bb23ac58332f1a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 6ae1ca951249a8042b88ec80bc0332b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BLACK_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: 6ee2506d25844d8479ac90ae573aaa5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BLACK_PLASTIC_MAT.002
+    second: {fileID: 2100000, guid: a91c89ee8c6dc4c47874e6d260427d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BLACK_PLASTIC_TILEABLE_MAT
+    second: {fileID: 2100000, guid: 9350d4f4caa72fa4ea42ffa8bb563605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_BLACK_PLASTIC_TILEABLE_MAT.001
+    second: {fileID: 2100000, guid: d656fca466be6f14d9384889af6a44b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_CHROME_MAT
+    second: {fileID: 2100000, guid: ca9c6981a8ade5040957fd5004a5f8ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_DISPLAY_MAT
+    second: {fileID: 2100000, guid: 3f69a1551ebbb6d4cbf2c93bee75535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_LIGHT_MAT
+    second: {fileID: 2100000, guid: 04a4d0d7c87afee4c8cfdf2ca3a9cb33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_MATTE_CHROME_MAT
+    second: {fileID: 2100000, guid: bc10c8095121adc42b26ac3a728ada32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_MATTE_CHROME_MAT.001
+    second: {fileID: 2100000, guid: d756672364659d14da01819916b53807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DASHBOARD_SCREEN_MAT
+    second: {fileID: 2100000, guid: 0db3520cf9b7ce74b973b590f8decb34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_DOOR_SPEAKER_MAT
+    second: {fileID: 2100000, guid: bc2c51fb0f8b0d24f97141ad099a32bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.001
+    second: {fileID: 2100000, guid: 17a2901d6f227cf489b3658740397044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.002
+    second: {fileID: 2100000, guid: 7bfe06e02aa22ee45be03997ef8176bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.003
+    second: {fileID: 2100000, guid: bdaf7c97498d3a748be2cd4f48d0b369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.004
+    second: {fileID: 2100000, guid: 4aba75207269b3e4eba071e2970b2223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.006
+    second: {fileID: 2100000, guid: 8d91d456ccfa43149b8d4d41006f0378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.007
+    second: {fileID: 2100000, guid: e0667db0ab4538848a45511a0c0bfea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.008
+    second: {fileID: 2100000, guid: f98f63733ac7ee24da5d3d8ee440785a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.009
+    second: {fileID: 2100000, guid: 4b9af60e39ddb2749aeb1cb57696c09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.010
+    second: {fileID: 2100000, guid: d36f72eee74bf1448bd140d64641007a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_MAT.013
+    second: {fileID: 2100000, guid: d94ca2d74079bf442b3a1abfd63a539b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_ROOF_LIGHT_DECAL_MAT
+    second: {fileID: 2100000, guid: 0ad72389a5f9aae4992ff36ba8a62e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DECAL_SCREEN_MAT
+    second: {fileID: 2100000, guid: bcef7bcc6bd07a54691a2e66febaff6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DOOR_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 47bdc32757823044f93bfaa3dc7c8093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DOOR_BLACK_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: a5a565a95979f3848ac16197fc927dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DOOR_BLACK_PLASTIC_TILEABLE_MAT
+    second: {fileID: 2100000, guid: df7d684fcb883d946aaf1bbec68889cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DOOR_BLACK_RED_PLASTIC_MAT
+    second: {fileID: 2100000, guid: a7a1d454bdd267a4e99c61571119ceb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DOOR_MATTE_CHROME_MAT
+    second: {fileID: 2100000, guid: 7dff679e29e11ef42b9d86c2aa238745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DOOR_PATTREN_ONE_MAT
+    second: {fileID: 2100000, guid: 6ce648dc94474ec4ca6b58fdc6559d95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_DOOR_PATTREN_TWO_MAT
+    second: {fileID: 2100000, guid: b7fff579b62f2514e9219e7a281132bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_EX_BODY_BLACK_METAL_MAT
+    second: {fileID: 2100000, guid: a95734056b175164b826dbff70b20b17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_PILAR_BLACK_PLASTIC_TILEABLE_MAT
+    second: {fileID: 2100000, guid: 5873335505af4fd47aa93261835d0630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 3c46c562e8df97540b844902ca2d39c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_BELT_TILEABLE_MAT
+    second: {fileID: 2100000, guid: f53af516c1b78cc4a9a57f847831a87e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_BLACK_METAL_MAT
+    second: {fileID: 2100000, guid: 5357515251f9192499851ef252845ac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 64d7b9b9a5674d24da223ba323728071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_CHROME_BUCKLE_MAT
+    second: {fileID: 2100000, guid: 1a534e87fedc28e4591f70455d1a5b45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_FABRIC_FOUR_TILEABLE_MAT
+    second: {fileID: 2100000, guid: 1388e6a854505f246bd92e3c4a20cc9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_FABRIC_ONE_TILEABLE_MAT
+    second: {fileID: 2100000, guid: a28240ffa34115944a406d2185eae323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_FABRIC_THREE_TILEABLE_MAT
+    second: {fileID: 2100000, guid: c21a5f59522af754d8695c251d2618b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_FABRIC_TWO_TILEABLE_MAT
+    second: {fileID: 2100000, guid: 4f74a86c277dd0746bd177f22e9e8f17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SEATS_RED_PLASTIC_MAT
+    second: {fileID: 2100000, guid: d38966fb448276742a90c71ba754524e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_BLACK_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: 4aad2f014b5fdb54bb95b9c833567ac0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_BLACK_PLASTIC_MAT.002
+    second: {fileID: 2100000, guid: 03650c3b64929f84ca9a765d328061a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_BLACK_PLASTIC_MAT.003
+    second: {fileID: 2100000, guid: bb63e879f0ed1e440b75fb795e27203f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_BLACK_PLASTIC_MAT.004
+    second: {fileID: 2100000, guid: bf9e444fcaa9f6348962e273e66204f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_BLACK_PLASTIC_MAT.005
+    second: {fileID: 2100000, guid: 522c3b59fb8064441b208fad2bd763ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_BLACK_PLASTIC_TILEABLE_MAT
+    second: {fileID: 2100000, guid: 0a90d0169b5896e44b5d20189cf13b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_CHROME_MAT
+    second: {fileID: 2100000, guid: 0f89588322c02f946810b53f9bbcb7a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_GLASS_MAT
+    second: {fileID: 2100000, guid: b77ce704589ce014db04e0531489b844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_MATTE_CHROME_MAT
+    second: {fileID: 2100000, guid: 6cc224a2f01f6fa42a111d7b9365f552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_MATTE_PANEL_CHROME_MAT
+    second: {fileID: 2100000, guid: cdab61c0962a2a3409005d3ac51894af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_PATTERN_ONE_MAT
+    second: {fileID: 2100000, guid: fed6817142dcac545a77af74beef9d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_SPEEDO_RED_PLASTIC_MAT
+    second: {fileID: 2100000, guid: fc9db3d0c7180bb438d1ef91f47fbaf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGONR_Z_IN_STEERING_DECAL_MAT
+    second: {fileID: 2100000, guid: fad5531e55cce1844a4f4c4240396bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 60aa1391aeafb544bb6477be39acfa48, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

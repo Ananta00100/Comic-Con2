@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: b40624e9a693777408444921cf7734b4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn10
+    second: {fileID: 2100000, guid: 2fd2153466016bc478ed1c8d019ef14a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn11
+    second: {fileID: 2100000, guid: 36d016a827b8481449305f4033f416ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn12
+    second: {fileID: 2100000, guid: 2dc88fc3a1fcd6d488d456a8f1f1640c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn13
+    second: {fileID: 2100000, guid: 5bebd1b0e9a227440bf1224b5ff5df26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn14
+    second: {fileID: 2100000, guid: 210be50a518c205488696bd320d26482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn15
+    second: {fileID: 2100000, guid: 51e77d7f7fc92e34890080700ed8b840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn16
+    second: {fileID: 2100000, guid: 63e8871d418d5454ab8f58ea002537af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn17
+    second: {fileID: 2100000, guid: 5c408b4c7b7f8e044ad93395ff2c8410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn18
+    second: {fileID: 2100000, guid: b3189ca50e6b41547b4e142dddcee336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn19
+    second: {fileID: 2100000, guid: e43e8768d80f8374fa250b2eaf771e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn20
+    second: {fileID: 2100000, guid: d1aa18a07bc5394469f837db7b28dd15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn21
+    second: {fileID: 2100000, guid: 580db2c09f068ec4f94cc13f03b6a57a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn23
+    second: {fileID: 2100000, guid: 8bde41cb0082b0845875f9ee561eb8ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn24
+    second: {fileID: 2100000, guid: 8efeb0ddac6efa84c84143c092fe26cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn25
+    second: {fileID: 2100000, guid: 434e8c996979971488b3b9f9a63636dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn27
+    second: {fileID: 2100000, guid: be8c53c196aac6744a2c8ac64bd3b94b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn28
+    second: {fileID: 2100000, guid: a83e09b2f978963469a69ec041b3951c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn29
+    second: {fileID: 2100000, guid: 3ef1b595d0ef81f43a845869afd66ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn30
+    second: {fileID: 2100000, guid: ec003e25f3ab3804a89666ab2b5cd8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn31
+    second: {fileID: 2100000, guid: 4df56acd1c5afb24d98392a68bd0f7ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn32
+    second: {fileID: 2100000, guid: 5b8ab6ce90610fc47920eec3b5198e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn33
+    second: {fileID: 2100000, guid: 60edea230f32328479824e15e2238633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn34
+    second: {fileID: 2100000, guid: b85185236c44d924fa16a0d7e8e44081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn35
+    second: {fileID: 2100000, guid: 5d534798329b02d41911e960e2b5916d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn36
+    second: {fileID: 2100000, guid: f5e6e72956ab7f44591e52ffbe17c193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn37
+    second: {fileID: 2100000, guid: de71a8f0f079eae43bfe2ce5fe1f6b79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn5
+    second: {fileID: 2100000, guid: 704a883ff9db8f846a7d3c2aa94cee8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn6
+    second: {fileID: 2100000, guid: 6b718d6921e408b4ca8a322aaa2e11f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn7
+    second: {fileID: 2100000, guid: 90b80b63260e08741831c7a1bddab826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn8
+    second: {fileID: 2100000, guid: 57fbc6314af93904ab92dab61808a855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn9
+    second: {fileID: 2100000, guid: a92143cb21bb5a746bd167ff53cc82a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: f1d295c4a234eda43848549f25827c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: 83f8f3d5064c45d4fa0554a886cbaf0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: d72698695ff99bf429f5b784faee0501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: 1e2dd44025e27774387de333563fb8de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 95bb85560d02eac42adce62d70e97a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: 50845df806a10a74ba24e4caa50afd77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: f2819376f098cfa429896d8bef823b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: 3f85d5cbf0ea28e46ba0323a48ddbfcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: d9c596edc51913c4881fe4b33d556821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 18b755ae17dce9a49b0d67092c062c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20
+    second: {fileID: 2100000, guid: 092d57d57871e3749800c5113268d3f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert21
+    second: {fileID: 2100000, guid: 0828cba80e4f60749a6e8495dc4094de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert22
+    second: {fileID: 2100000, guid: 6234639ce8ec6df46ab0fb0fa314817a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert23
+    second: {fileID: 2100000, guid: fe7dfa4b7f06e524585c72ba7500c665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_GAFILL_MAT1
+    second: {fileID: 2100000, guid: ca95e695ae9c3f64caa8b65ff1cf7c5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_IN_SEATS_MECH_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 40735ace390771f41905f0011b073537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_IN_SEATS_MECH_BUCKLE_RED_PLASTIC_MAT
+    second: {fileID: 2100000, guid: fc15e78ea6a62654f86bc8f27cb04ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_IN_SEATS_MECH_METAL_MAT
+    second: {fileID: 2100000, guid: 09945d340e7a5654b8c4261ee439478a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_IN_SEATS_SEATBELT_FABRIC_MAT
+    second: {fileID: 2100000, guid: 32a6c719d9a495f42a95b9c8ac908537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_SEATS_PRESS_TEXT_MAT
+    second: {fileID: 2100000, guid: 692023506970f4e44902a1fbc19ab137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_BLACKPLASTIC_MAT1
+    second: {fileID: 2100000, guid: 9b115e4d02f2ff8498ee7a5dc61b0a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_CHROME_ONE_MAT1
+    second: {fileID: 2100000, guid: 8770a7a734fb26a4cbbca778bda94e3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_CHROME_RING_MAT1
+    second: {fileID: 2100000, guid: fa12d836f84384e43b25c968b1c0bb34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_CLEAR_CHROME_LINES_MAT1
+    second: {fileID: 2100000, guid: 9899a87a2c1563149a96f4843bc5eff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_MAIN_RED_CHROME_MAT1
+    second: {fileID: 2100000, guid: 556c877436e138647896ca6b61969c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_MAIN_RED_GLASS_MAT
+    second: {fileID: 2100000, guid: 0e7dfea6dea26814ca01a1281d445a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_MAIN_RED_GLASS_MAT1
+    second: {fileID: 2100000, guid: 5d01b21f60d4d1e408cec2c3cd8a7ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_ORANGE_BULB_MAT1
+    second: {fileID: 2100000, guid: 83231ac64ce0eed418ebc163562fa38f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_RED_CHROME_LINES_MAT1
+    second: {fileID: 2100000, guid: 14a494841da2b274cb4852bdeee80757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_RED_CHROME_MAT1
+    second: {fileID: 2100000, guid: 905089539a28d9145ad0c6cdebcde93a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_RED_LED_MAT1
+    second: {fileID: 2100000, guid: c08be0b5b01c2124bac9f5ccdaabb3a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_HEADLIGHT_WHITE_BLUB_MAT1
+    second: {fileID: 2100000, guid: 8a9c7b9205b3ad44abc5faed45e70072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_LIGHTS_FOGLIGHT_BULB_MAT
+    second: {fileID: 2100000, guid: 5daa6f18966e17e489d281c2401e610c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_LIGHTS_FOGLIGHT_CHROME_CENTER_MAT
+    second: {fileID: 2100000, guid: 30c77a474c38a194d9c62dc14bae05f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_LIGHTS_REAR_REFLECTOR_GLASS_MAT
+    second: {fileID: 2100000, guid: 91465a558d8c32742a5a81f9b5d2e9f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_LIGHTS_REAR_REFLECTOR_MAT
+    second: {fileID: 2100000, guid: 8615700ab2b75214bad02c733928cee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_LIGHT_ORVM_REFLECTOR_CHROME_MAT
+    second: {fileID: 2100000, guid: 7d8f62e99d572b143a64abbc26f9c474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_TAILLIGHT_LED_LIGHTS_MAT1
+    second: {fileID: 2100000, guid: e5ff82f20adfd834faf4b448304a82c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_TAILLIGHT_LIGHTS_CIRCLES_MAT1
+    second: {fileID: 2100000, guid: 0f7134b1de384364f992782695a2e371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_TAILLIGHT_MAIN_WHITE_GLASS_INNER_DETAILS_MAT1
+    second: {fileID: 2100000, guid: b054b6a3346f9d1409bcea1295767083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIPLUS_EX_TAILLIGHT_MAIN_WHITE_GLASS_MAT1
+    second: {fileID: 2100000, guid: adbcc64ece642ff4ba8135c3eb196c10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_EX_CARBODY_CARPAINT_MAT.001
+    second: {fileID: 2100000, guid: 7839e90712b4967408261f5895fb6946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_EX_CARBODY_PARKING_SENSOR_RUBBER_MAT
+    second: {fileID: 2100000, guid: b3770998fd9d551448da179a63c63a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_EX_PARTS_DEFOGER_ORANGE_MAT
+    second: {fileID: 2100000, guid: d4a68eafd835a9145b68f8c91d441bbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_EX_PARTS_FRONTCHROME_MAT
+    second: {fileID: 2100000, guid: 0cb5f11cf64f29a4ea7470b6d214015f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BEIGE_LEATHER_MAT
+    second: {fileID: 2100000, guid: 3a25dbe4f9ba815449d193fd73acc987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BEIGE_LEATHER_MAT.001
+    second: {fileID: 2100000, guid: bf787d48325db1c499d799a517872757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 234637883125fb048bcbe93b325e059b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BLACK_PLASTIC_FOUR_MAT
+    second: {fileID: 2100000, guid: e2eddb7cf3976e14197ac927092b1e31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 710491f8a3dc0a44199a0404baa17463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BLACK_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: 95260c5440c30634283a8cc455a2305a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BLACK_PLASTIC_MAT.002
+    second: {fileID: 2100000, guid: 29de8f561be9e914caff969e6bdde9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BLACK_PLASTIC_THREE_MAT
+    second: {fileID: 2100000, guid: 57f0362e268616b48a7ee3b6fb33de5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_BLACK_PLASTIC_TWO_MAT
+    second: {fileID: 2100000, guid: 2cb5277ce19d60e4aae93e620408a600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_CHROME_MAT
+    second: {fileID: 2100000, guid: 83e04336593b2c44686f33ec669261e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_DOT_RUBBER_MAT
+    second: {fileID: 2100000, guid: f683d21cdbb7b4f42a7bafe759169831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_GEAR_BLACK_LEATHER_MAT
+    second: {fileID: 2100000, guid: fc675bc1b454f7641a0f42d6b6e993d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_GEAR_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 6fad2ae12ee88b64b8acb6b644a1cc6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_GEAR_CLOTH_LEATHER_MAT
+    second: {fileID: 2100000, guid: 4bc317d998dbba9439d15ef5d5749907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_GEAR_PANO_PLASTIC_MAT
+    second: {fileID: 2100000, guid: a4b2d25ca548eae41bc111bd0d6f8e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_GEAR_SATIN_CHROME_MAT
+    second: {fileID: 2100000, guid: 6279243a79a7c3547a0bbd3a04e2daac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_CENTERCONSOLE_GEAR_SATIN_CHROME_MAT.001
+    second: {fileID: 2100000, guid: 76c59539988d7554e84b498afe8033e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_AC_LIGHT_MAT
+    second: {fileID: 2100000, guid: c60f26a6329d5b44fa4ea34fe1e78f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_AC_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 5688b7fa82a93fc4a90e5e1282080355, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BEIGE_LEATHER_MAT
+    second: {fileID: 2100000, guid: 60adb4a9f14c2434b83430143851d852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BEIGE_LEATHER_MAT.001
+    second: {fileID: 2100000, guid: 1f6df40793c3ab944bb2f9eed3b07596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 0e9a4c46cb23aba488439e24c2afee86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BLACK_LEATHER_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 92c4f208498b6844186994b560fe33d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: bda318d689b72db48835c131dfed4d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BLACK_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: 73e49fc2a8c31024c8357d3c807c59f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BLACK_PLASTIC_MAT.002
+    second: {fileID: 2100000, guid: 63f50010ae5b19643a06fbdef35b385e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BUTTON_AC_DISPLAY_MAT
+    second: {fileID: 2100000, guid: be1200297ae4dae408859eada9b1d0f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BUTTON_AC_GLASS_MAT
+    second: {fileID: 2100000, guid: 70094769f76f4d24c9424b5f5e06fab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BUTTON_AC_PLASTIC_MAT
+    second: {fileID: 2100000, guid: fd3019d678b15634798a358a199261a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_BUTTON_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 83343ec93ce48fc4d9ed01feb62babef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_CHROME_MAT
+    second: {fileID: 2100000, guid: 285d8fced2a439a40b67c7a994966095, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_CHROME_MAT.001
+    second: {fileID: 2100000, guid: e3bdeb18248c41841bd5e01f6d493f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_CHROME_MAT.002
+    second: {fileID: 2100000, guid: 5261990ac4ef0364c9a4cb5c04e0de20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_DISPLAY_MAT
+    second: {fileID: 2100000, guid: 06bd9d462a267b445bb37d64c1d15e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_GLASS_MAT
+    second: {fileID: 2100000, guid: d54c20ba36d8e334886b5786681d742c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_INFOTAINMENT_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 87477fe1c942cc247a58a6593b4389f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_PIANO_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: a9ee66e1c1af0a445b71b4c13533a2c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_SATIN_CHROME_MAT
+    second: {fileID: 2100000, guid: 82c2869f5f62aad41ae3fe2dc2b9a389, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_SATIN_CHROME_MAT.001
+    second: {fileID: 2100000, guid: d7415299878dc82439e8b6d9dba8ebfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_WHITE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 912612fc96096504d848b714eb53ba80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DASHBOARD_WOOD_MAT
+    second: {fileID: 2100000, guid: c46a7033639d2714590e52d20063283a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT
+    second: {fileID: 2100000, guid: 7a605c72c524a0741ba20cf98adf950f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.001
+    second: {fileID: 2100000, guid: 980a59fcc2cb1cc4d8d9779168674b53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.002
+    second: {fileID: 2100000, guid: c2da68405143c6844a818ee65d26ce57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.003
+    second: {fileID: 2100000, guid: 4ef34597f687c5e4b92170af7d9d7ec6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.004
+    second: {fileID: 2100000, guid: 477730b24597afa418668f2a9cdc9e46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.005
+    second: {fileID: 2100000, guid: ee8d13f8018dcc94aa3ef30c418dc6b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.006
+    second: {fileID: 2100000, guid: 18fc394d909936043ababf22b929a557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.007
+    second: {fileID: 2100000, guid: 11eee635642c747458958bad4464e23a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.008
+    second: {fileID: 2100000, guid: 3f4a4301970dd7140b58f5525dadd11e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.010
+    second: {fileID: 2100000, guid: df7d51242bf7a2d46b88d1eef8a07ff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DECAL_MAT.011
+    second: {fileID: 2100000, guid: f2f367432ad6b7242a3a887e881813b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BEIGE_CLOTH_MAT
+    second: {fileID: 2100000, guid: ffd359e68fa59fe4e85fd5b28fda7b01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BEIGE_DARK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 4c26d7cac4b0b0045aa4122b7269a43d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BEIGE_LEATHER_MAT
+    second: {fileID: 2100000, guid: f761145147eec9e4195767ada4cb66fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: bb31e39c89b796c4e89b9ad04ad0b53a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BEIGE_SPEEKER_MAT
+    second: {fileID: 2100000, guid: 6f3a785c7b309b34db50cd5ac3aa37cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BLACK_LEATHER_MAT
+    second: {fileID: 2100000, guid: 78218b6d8878b7749acc90dbec1369e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 80cbfb14269647c4e9bd10cd5e1d53f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BUTTON_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 0bbc8d680d898844ab78b00130411779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_BUTTON_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: 2c6a4bf56a234a244bfa73627e71c89d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_CHROME_MAT
+    second: {fileID: 2100000, guid: d224865634ab72a4abbe1396954f6200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_RED_MAT
+    second: {fileID: 2100000, guid: d47b5196e60114f42a03a0e2004173dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_SHINY_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 9f19854c8e2093e46a58621b35aa3e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_TWEETER_DECAL_MAT
+    second: {fileID: 2100000, guid: cc384e79ce0a4fe4c9f1357211151f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_TWEETER_PLASTIC_MAT
+    second: {fileID: 2100000, guid: c087dc636e8f6db4081d2fdd24c1b313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_DOOR_WOOD_MAT
+    second: {fileID: 2100000, guid: 3318caaa03bcb3c4da11084900b63f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_MAT
+    second: {fileID: 2100000, guid: e961dd66ac95a794686549896b0f6b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_MAT.001
+    second: {fileID: 2100000, guid: e3b59995d730b2b49b4f25659ffb67d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_MAT.002
+    second: {fileID: 2100000, guid: 604454b13d733564a8310a731c4e4b21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_MAT.003
+    second: {fileID: 2100000, guid: e2416d4d4c8a40648970be3466c5cfcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_MAT.004
+    second: {fileID: 2100000, guid: 74e8d7e3803cd07429c155778a722ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_REAR_AC_DECAL_MAT
+    second: {fileID: 2100000, guid: f586e4fa3d69ee8438f9d908d079aed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: d9416a62a230faa4291ee70609a6abf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_BEIGE_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: 4e01f3b55d2b5f341ae17e54008f456b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_CARPET_MAT
+    second: {fileID: 2100000, guid: 3d012601e9064e847a114b98c915afd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_CENTER_LIGHT_MAT
+    second: {fileID: 2100000, guid: 435db9d4b4dafa74bbfe3825e4969d80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_CHROME_MAT
+    second: {fileID: 2100000, guid: 73db072d282ef8b43ae7ad4b25140225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_DECAL_MAT
+    second: {fileID: 2100000, guid: 457983b8102b5f941b9eedeaa4d4e4ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_FLOOR_PADDLE_METAL_MAT
+    second: {fileID: 2100000, guid: 11a915347769a51428f4b51a6859cef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_FLOOR_PADDLE_RUBBER_MAT
+    second: {fileID: 2100000, guid: 0a5826855c7c57c4c8d2f728d0fe950e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_FRONT_LIGHT_MAT
+    second: {fileID: 2100000, guid: cc6b35462ea1b5045ac1729d38c539e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_FRONT_SPK_MAT
+    second: {fileID: 2100000, guid: 42b87878bcba64441a0004618c63f377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_METAL_MAT
+    second: {fileID: 2100000, guid: c64a06c6ac02f5244bdf6c5d016bdbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_REAR_LIGHT_MAT
+    second: {fileID: 2100000, guid: 7d19834f03a1edb489c2461258e5e09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_REAR_VIEW_MIRROR_MAT
+    second: {fileID: 2100000, guid: 35e15feee8f8a764387789c8972ae975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_SIDE_BEIGE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 9fdca27d17ab5b341a6f042955b1f34a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_UP_BEIGE_PILLERS_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 554c2b7c2647f4946b79f07490f2b422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_WHITE_LEATHER_PLASTIC_MAT
+    second: {fileID: 2100000, guid: ca298d7246fabf74996ac604b4b69d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_ROOF_WHITE_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 998587d32b11ab24bbf44d31c7984eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_BLACK_GLOSS_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 4925863179d1c164b87b869087dc78d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_BLACK_GRAIN_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 18e3f20221a4a204e99936fa5b9f72a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_BLACK_LEATHER_MAT
+    second: {fileID: 2100000, guid: 3f6118433fdecc3418adda1f6fef0293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 1551108eaa8a49c499052d1098b64da3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_BLACK_PLASTIC_MAT.001
+    second: {fileID: 2100000, guid: 63f59e3207b26ae4a94f3dc8dfb8b93f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_BLACK_PLASTIC_ONE_MAT
+    second: {fileID: 2100000, guid: fe7df6d377016a141909dcb607022fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_BLACK_SHINY_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 903ced89f8a0ea84393b38be41e2ca26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_BRUSHED_CHROME_MAT
+    second: {fileID: 2100000, guid: 0eac1b3c4d23a2c42b7eff61e8afd5ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_HANDEL_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 8c9191e97f5d1eb418573080b439d68c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_METAL_MAT
+    second: {fileID: 2100000, guid: 3bed3b86ad953314084dab7529b1d636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_SPEEDO_BLACK_PLASTIC_MAT
+    second: {fileID: 2100000, guid: a3d76ce38ce8ac1479adc90e9dda1b28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_SPEEDO_BRUSHED_CHROME_MAT
+    second: {fileID: 2100000, guid: b7b37d4e2d0aea44fb1fea1f4ae2d887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_SPEEDO_GLASS_MAT
+    second: {fileID: 2100000, guid: 391dfa1c79c3df744a5cd7d52c6a0847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_SPEEDO_GREY_PLASTIC_MAT
+    second: {fileID: 2100000, guid: 25ac20a3f1d800d4f97375c9954cdca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_SPEEDO_METER_MAT
+    second: {fileID: 2100000, guid: d545e2b60ca345547843016e2624ee66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_SPEEDO_MID_DISPLAY_MAT
+    second: {fileID: 2100000, guid: df0e09d239cc1fe4db9b30aa02857f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_SPEEDO_NEEDEL_BLACK_MAT
+    second: {fileID: 2100000, guid: 5a1e6cf6401c9c449b17f256d1ffe1b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__DZIRE_ZXIP_IN_STEERING_SPEEDO_NEEDEL_WHITE_MAT
+    second: {fileID: 2100000, guid: d8b90972faf54e1429df5233a622fe35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn1
+    second: {fileID: 2100000, guid: 25ea8dc9421de234b823672ee68f3d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert4
+    second: {fileID: 2100000, guid: 2c71b0bd8983f2340b8a452512984503, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
